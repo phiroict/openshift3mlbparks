@@ -79,6 +79,7 @@
 						<configuration>
 							<failOnMissingWebXml>false</failOnMissingWebXml>
 							<outputDirectory>deployments</outputDirectory>
+							<!--<webXml>main\webapp\WEB-INF\web.xml</webXml>-->
 							<warName>ROOT</warName>
 						</configuration>
 					</plugin>
